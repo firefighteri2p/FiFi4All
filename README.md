@@ -76,7 +76,7 @@ An initial introduction of improving your freedoms and anonymity is using:
 
 * Update this green/white paper!
 * Make this information public not only on I2P, but also on git.repo.i2p.
-* Update LICENSE.md
+* Create a method to automatically update index.html
 
 ## Contact
 
