@@ -68,9 +68,13 @@ An initial introduction of improving your freedoms and anonymity is using:
 
 *   [Tails](https://tails.boum.org/) on a bootable CD-ROM or USB flash device.
 
+## How to contribute?
+
+* [https://github.com/firefighteri2p/FiFi4All.git](https://github.com/firefighteri2p/FiFi4All.git)
+
 ## Next steps
 
-Make this information public not only on I2P, but also on Github and git.repo.i2p.
+Make this information public not only on I2P, but also on git.repo.i2p.
 
 ## Copyright & Contact
 
