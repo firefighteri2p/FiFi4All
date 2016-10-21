@@ -74,15 +74,16 @@ An initial introduction of improving your freedoms and anonymity is using:
 
 ## Next steps
 
-Update this green/white paper!
+* Update this green/white paper!
+* Make this information public not only on I2P, but also on git.repo.i2p.
+* Update LICENSE.md
 
-Make this information public not only on I2P, but also on git.repo.i2p.
-
-## Copyright & Contact
-
-Copyright is held by Firefighter until later declared! 
+## Contact
 
 * Internet: [firefighter (ad) i2pmail.org](mailto:firefighter@i2pmail.org?Subject=FiFi sugestion)
 * I2P: [firefighter (ad) mail.i2p](mailto:firefighter@mail.i2p?Subject=FiFi sugestion)
 
-Copright is held back, because I don't know which to chose. It will either be the GNU Affero General Public License, FreeBSD Documentation License or Creative Commons (CC-BY-NC-SA) variant.
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
