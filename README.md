@@ -80,8 +80,9 @@ An initial introduction of improving your freedoms and anonymity is using:
 
 ## Contact
 
-* Internet: [firefighter at i2pmail.org](mailto:firefighter@i2pmail.org?Subject=FiFi sugestion)
-* I2P: [firefighter at mail.i2p](mailto:firefighter@mail.i2p?Subject=FiFi sugestion)
+* Internet: [firefighter at i2pmail dot org](mailto:firefighter@i2pmail.org?Subject=FiFi sugestion)
+* I2P: [firefighter at mail dot i2p](mailto:firefighter@mail.i2p?Subject=FiFi sugestion)
+* Bote: 9TxL6JfmEPkTMmXs2oo~VUC0DHaHqUX8FfI0T4NSLu0mVrkKSP7KQ66XEY44hBxEvE~PVuS6SNY1M3l7q7mxyS
 
 ## License
 
