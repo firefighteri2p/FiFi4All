@@ -44,6 +44,7 @@ Concerning anonymity:
 * Make sure people cannot snope your data, use [HTTPS:// EVERYWHERE](https://www.eff.org/https-everywhere).
 * Disabling browser features which leak fingerprints. Good solution is [Torbrowser Bundle (TBB)](https://www.torproject.org/projects/torbrowser.html.en).
 * Using either Onion ([Tor](https://www.torproject.org/)) or Garlic ([I2P](https://geti2p.net/)) routing to prevent location detection.
+	- Appearantly, there are some other alternatives: [Freenet](https://freenetproject.org/) and [GNUnet](https://gnunet.org/)
 * Use both routing protocols with [Privoxy](https://www.privoxy.org/)
 * Harderning and isolation concerning communcation [Whonix](https://www.whonix.org/)
 * Harderning and isolation within operating system [Qubes OS](https://www.qubes-os.org/)
